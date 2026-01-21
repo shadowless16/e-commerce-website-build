@@ -54,7 +54,7 @@ export function Header() {
         <div className="flex items-center justify-between gap-4">
           {/* Logo */}
           <Link href="/" className="text-2xl font-bold text-foreground hover:text-accent transition-colors shrink-0">
-            LUXE
+            Jumot Collections
           </Link>
 
           {/* Desktop Navigation */}
@@ -232,7 +232,7 @@ export function Header() {
               Hot Deals
             </Link>
             <Link href="/about" className="px-4 py-3 text-base font-medium hover:bg-muted rounded-lg">
-              About Luxe
+              About Jumot Collections
             </Link>
             <Link href="/contact" className="px-4 py-3 text-base font-medium hover:bg-muted rounded-lg">
               Contact Us

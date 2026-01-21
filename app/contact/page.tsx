@@ -48,12 +48,12 @@ export default function ContactPage() {
               <div className="bg-muted rounded-lg p-6 text-center">
                 <Mail className="w-8 h-8 text-accent mx-auto mb-4" />
                 <h3 className="font-semibold mb-2">Email</h3>
-                <p className="text-muted-foreground">support@luxe.com</p>
+                <p className="text-muted-foreground">support@Jumot Collections.com</p>
               </div>
               <div className="bg-muted rounded-lg p-6 text-center">
                 <Phone className="w-8 h-8 text-accent mx-auto mb-4" />
                 <h3 className="font-semibold mb-2">Phone</h3>
-                <p className="text-muted-foreground">1-800-LUXE-001</p>
+                <p className="text-muted-foreground">1-800-Jumot Collections-001</p>
               </div>
               <div className="bg-muted rounded-lg p-6 text-center">
                 <MapPin className="w-8 h-8 text-accent mx-auto mb-4" />

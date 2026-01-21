@@ -11,7 +11,7 @@ export default function AboutPage() {
         {/* Hero Section */}
         <section className="bg-accent/10 py-16">
           <div className="max-w-4xl mx-auto px-4 text-center">
-            <h1 className="text-4xl font-bold mb-4">About LUXE</h1>
+            <h1 className="text-4xl font-bold mb-4">About Jumot Collections</h1>
             <p className="text-lg text-muted-foreground">Discover our story and values</p>
           </div>
         </section>
@@ -22,7 +22,7 @@ export default function AboutPage() {
             <div>
               <h2 className="text-3xl font-bold mb-4">Who We Are</h2>
               <p className="text-lg text-muted-foreground mb-4">
-                LUXE is a premium e-commerce platform dedicated to bringing exceptional products to discerning
+                Jumot Collections is a premium e-commerce platform dedicated to bringing exceptional products to discerning
                 customers. We believe in quality over quantity and carefully curate every item in our collection.
               </p>
               <p className="text-lg text-muted-foreground">

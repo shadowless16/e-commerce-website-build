@@ -17,7 +17,7 @@ export async function POST(request: NextRequest) {
       cloudinary.uploader.upload_stream(
         {
           resource_type: 'auto',
-          folder: 'luxe-ecommerce', // Dedicated folder for the LUXE project
+          folder: 'Jumot Collections-ecommerce', // Dedicated folder for the Jumot Collections project
         },
         (error, result) => {
           if (error) reject(error);
